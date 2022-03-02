@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+}
+@media (max-width: 1170px){
+ *{
+   display: none;
+ }
+
+}
